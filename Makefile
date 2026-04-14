@@ -2,9 +2,9 @@
 #-------------------------------------------------------------------------
 # Project   - Checkpoint #7 / while, exit, modulo, arrays
 # Course    - CS4223
-# Developer - Hayden Smith
+# Developer - Hayden Berry
 # 
-# Description - This is the Makefile for checkpoint #6.
+# Description - This is the Makefile for the compiler
 # Due - 02.04.2025
 #-------------------------------------------------------------------------
 #
