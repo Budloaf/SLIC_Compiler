@@ -2,7 +2,7 @@
  *-------------------------------------------------------------------------
  * Project   - Checkpoint #7 / while, exit, modulo, arrays
  * Course    - CS4223
- * Developer - Hayden Smith
+ * Developer - Hayden Berry
  * 
  * Description - This is the main file for checkpoint #6.
  * Due - 02.04.2025
