@@ -1,6 +1,6 @@
 #
 #-------------------------------------------------------------------------
-# Project   - Checkpoint #7 / while, exit, modulo, arrays
+# Project   - SLIC Compiler
 # Course    - CS4223
 # Developer - Hayden Berry
 # 
