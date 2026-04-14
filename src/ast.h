@@ -4,7 +4,7 @@
  * Course    - CS4223
  * Developer - Hayden Berry
  * 
- * Description - This is the parser for checkpoint #6.
+ * Description - This is the parser for the compiler.
  * Due - 02.04.2025
  *-------------------------------------------------------------------------
  */
